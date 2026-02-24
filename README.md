@@ -18,12 +18,7 @@ This project automatically:
 
 This system is built as a **multi-agent workflow using LangGraph**, where each node has a specialized responsibility.
 
-```
-
 ![Blog UI Screenshot](https://github.com/user-attachments/assets/01955b10-3129-4c80-8eb8-09efde18d53d)
-![Blog UI Screenshot](https://github.com/user-attachments/assets/01955b10-3129-4c80-8eb8-09efde18d53d)
-
-```
 
 ---
 
