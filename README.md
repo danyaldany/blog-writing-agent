@@ -20,7 +20,7 @@ This system is built as a **multi-agent workflow using LangGraph**, where each n
 
 ```
 
-<img width="330" height="800" alt="image" src="https://github.com/user-attachments/assets/62656d9c-40fc-49b8-bd4b-5d97024718db" />
+![Uploading image.png…]()
 
 ```
 
