@@ -20,7 +20,8 @@ This system is built as a **multi-agent workflow using LangGraph**, where each n
 
 ```
 
-![Uploading image.png…]()
+![Blog UI Screenshot](https://github.com/user-attachments/assets/fbeac0b6-8b47-429e-ae29-046e38b30081)
+
 
 ```
 
@@ -322,3 +323,4 @@ AI Engineer building:
 * Structured generation systems
 
 ---
+
