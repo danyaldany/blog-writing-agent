@@ -20,8 +20,7 @@ This system is built as a **multi-agent workflow using LangGraph**, where each n
 
 ```
 
-![Blog UI Screenshot](https://github.com/user-attachments/assets/fbeac0b6-8b47-429e-ae29-046e38b30081)
-
+![Blog UI Screenshot](https://github.com/user-attachments/assets/01955b10-3129-4c80-8eb8-09efde18d53d)
 
 ```
 
