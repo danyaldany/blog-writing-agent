@@ -300,8 +300,6 @@ Output:
 
 # 🧩 Future Improvements
 
-* Add vector memory (RAG with embeddings)
-* Add streaming UI
 * Add citation auto-formatting (APA/MLA)
 * Add cost tracking
 * Deploy as SaaS
@@ -310,12 +308,7 @@ Output:
 
 # 👨‍💻 Author
 
-AI Engineer building:
-
-* Agentic AI systems
-* LLM-powered workflows
-* Autonomous content pipelines
-* Structured generation systems
+**Danyal Arshad BS Computer Science Focus Areas: Generative AI, NLP, Agentic Systems, LLM Engineering**
 
 ---
 
